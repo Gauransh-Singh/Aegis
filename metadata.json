@@ -1,0 +1,9 @@
+{
+  "name": "Aegis Disaster Command",
+  "description": "A cutting-edge disaster prediction and alert system utilizing satellite imagery analysis, social media intelligence, and multi-cloud resilience monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
